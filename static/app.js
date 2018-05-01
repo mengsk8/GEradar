@@ -42,7 +42,7 @@ vapp = new Vue({
 
     // --------------------------------------------------------------------------
 
-    showBack: true,
+    showBack: false,
     showArmor2: false,
     showHead2: false,
     showArmor3: true,
@@ -71,7 +71,7 @@ vapp = new Vue({
     showHK416: true,
     showPan: true,
     showMini14: false,
-    showSKS: false,
+    showSKS: true,
     showKar98k: true,
 
     // --------------------------------------------------------------------------
